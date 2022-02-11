@@ -1,0 +1,26 @@
+{
+    "notaFiscal": "63",
+    "cnpj": "000.000.000.000/00",
+    "listaProdutos": [
+    {
+        "nome":"Camisa do Corinthians",
+        "preco":"120"
+    },
+    {
+        "nome":"Camisa do Palmeiras",
+        "preco":"150"
+    },
+    {
+        "nome":"Camisa do São Paulo",
+        "preco":"130"
+    },
+    {
+        "nome":"Camisa Retro",
+        "tipos": [
+            {"original":true, "preco":170},
+            {"original":false, "preco":120}
+        ]
+    }
+]
+    "valorTotalDaNota": "400"
+}
