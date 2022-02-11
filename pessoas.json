@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Henrique Barros",
+        "cpf": "413.413.413-13",
+        "casado": true,
+        "filhos": [
+            "Pedro",
+            "joana"
+        ]
+    },
+    {
+        "nome": "Marcio Moreira",
+        "cpf": "454.454.454-54",
+        "casado": true,
+        "filhos": []
+    },
+    {
+        "nome": "jose lima",
+        "cpf": "454.888.454-88",
+        "casado": true,
+        "filhos": []
+    },
+    {
+        "nome": "Joana Silva",
+        "cpf": "565.565.565-65",
+        "casado": false,
+        "filhos": [
+            "Pedro",
+            "Victor"
+        ]
+    },
+    {
+        "nome": "Natalia",
+        "cpf": "444.444.444-47",
+        "casado": false,
+        "filhos": [
+            "Raphael",
+            "Rosangela"
+        ]
+    }
+]
