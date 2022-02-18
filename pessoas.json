@@ -36,6 +36,15 @@
         "filhos": [
             "isabela"
         ]
+    },
+    {
+        "nome": "edivaldo jesus rocha",
+        "cpf": "125.564.454-55",
+        "casado": false,
+        "filhos": [
+            "luiz",
+            "vinicios",
+            "pedro"
+        ]
     }
-    
 ]
